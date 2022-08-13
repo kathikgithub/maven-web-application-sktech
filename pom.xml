@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SK Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.204.22.67:8081/repository/nithin_snapshot/</url>
+	      <url>http://43.204.22.67:8081/repository/nithin_release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
