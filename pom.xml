@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SK Technologies Releases Nexus Repository</name>
-	      <url>http://43.204.22.67:8081/repository/nithin_release/</url>
+	      <url>http://13.234.18.220:8081/repository/girish_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SK Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.204.22.67:8081/repository/nithin_snapshot/</url>
+	      <url>http://13.234.18.220:8081/repository/girish_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
